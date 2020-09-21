@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1600685908",layout:"default",error:b,state:{auth:{displayName:a,email:a,phoneNumber:a,role:b,isAuthenticated:false},buyer:{defaultBuyer:{}},cart:{products:[],status:"pending"}},serverRendered:true,routePath:"\u002F",config:{content:{dbHash:"41067f2f"}}}}("",null));
